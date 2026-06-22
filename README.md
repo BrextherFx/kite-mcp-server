@@ -1,5 +1,14 @@
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-blue?style=for-the-badge)
+![Zerodha](https://img.shields.io/badge/Zerodha-Kite-orange?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-Desktop-purple?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-success?style=for-the-badge)
 # Kite MCP Trading Server
-
+<p align="center">
+  <img src="./docs/banner.png" alt="Kite MCP Server Banner" width="100%">
+</p>
 A powerful **Model Context Protocol (MCP) Server** built with **Bun + TypeScript** for **Zerodha Kite Connect**.
 
 This server enables AI agents, automation workflows, and trading applications to interact with Zerodha accounts for:
