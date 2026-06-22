@@ -7,7 +7,7 @@
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-success?style=for-the-badge)
 # Kite MCP Trading Server
 <p align="center">
-  <img src="./docs/banner.png" alt="Kite MCP Server Banner" width="100%">
+  <img src="./banner.png" alt="Kite MCP Server Banner" width="100%">
 </p>
 A powerful **Model Context Protocol (MCP) Server** built with **Bun + TypeScript** for **Zerodha Kite Connect**.
 
